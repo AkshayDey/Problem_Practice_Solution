@@ -1,0 +1,14 @@
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\bin\Debug\net7.0\LeetCode-BaseballProblem-Stack.exe
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\bin\Debug\net7.0\LeetCode-BaseballProblem-Stack.deps.json
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\bin\Debug\net7.0\LeetCode-BaseballProblem-Stack.runtimeconfig.json
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\bin\Debug\net7.0\LeetCode-BaseballProblem-Stack.dll
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\bin\Debug\net7.0\LeetCode-BaseballProblem-Stack.pdb
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.dll
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\refint\LeetCode-BaseballProblem-Stack.dll
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.pdb
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\LeetCode-BaseballProblem-Stack.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\My GitHub Repo Projects\Problem_Practice_Solution\Problem_Practice\LeetCode-BaseballProblem-Stack\obj\Debug\net7.0\ref\LeetCode-BaseballProblem-Stack.dll
