@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\bin\Debug\net6.0\CF_Problem_617A_Elephant.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\bin\Debug\net6.0\CF_Problem_617A_Elephant.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\bin\Debug\net6.0\CF_Problem_617A_Elephant.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\bin\Debug\net6.0\CF_Problem_617A_Elephant.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\bin\Debug\net6.0\CF_Problem_617A_Elephant.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\refint\CF_Problem_617A_Elephant.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\CF_Problem_617A_Elephant.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_617A_Elephant\obj\Debug\net6.0\ref\CF_Problem_617A_Elephant.dll

@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\bin\Debug\net6.0\CF_Problem_263A_Petya_And_String.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\bin\Debug\net6.0\CF_Problem_263A_Petya_And_String.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\bin\Debug\net6.0\CF_Problem_263A_Petya_And_String.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\bin\Debug\net6.0\CF_Problem_263A_Petya_And_String.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\bin\Debug\net6.0\CF_Problem_263A_Petya_And_String.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\refint\CF_Problem_263A_Petya_And_String.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\CF_Problem_263A_Petya_And_String.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_263A_Petya_And_String\obj\Debug\net6.0\ref\CF_Problem_263A_Petya_And_String.dll

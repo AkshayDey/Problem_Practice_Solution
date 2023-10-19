@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\bin\Debug\net6.0\CF_Problem_59A_Word.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\bin\Debug\net6.0\CF_Problem_59A_Word.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\bin\Debug\net6.0\CF_Problem_59A_Word.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\bin\Debug\net6.0\CF_Problem_59A_Word.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\bin\Debug\net6.0\CF_Problem_59A_Word.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\refint\CF_Problem_59A_Word.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\CF_Problem_59A_Word.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_59A_Word\obj\Debug\net6.0\ref\CF_Problem_59A_Word.dll

@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\bin\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\bin\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\bin\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\bin\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\bin\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\refint\CF_Problem_339_A_Helpful_Maths.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\CF_Problem_339_A_Helpful_Maths.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_339_A_Helpful_Maths\obj\Debug\net6.0\ref\CF_Problem_339_A_Helpful_Maths.dll

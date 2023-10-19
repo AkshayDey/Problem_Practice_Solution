@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\bin\Debug\net6.0\CF_Problem_118_A_String_Task.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\bin\Debug\net6.0\CF_Problem_118_A_String_Task.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\bin\Debug\net6.0\CF_Problem_118_A_String_Task.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\bin\Debug\net6.0\CF_Problem_118_A_String_Task.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\bin\Debug\net6.0\CF_Problem_118_A_String_Task.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\refint\CF_Problem_118_A_String_Task.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\CF_Problem_118_A_String_Task.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_118_A_String_Task\obj\Debug\net6.0\ref\CF_Problem_118_A_String_Task.dll

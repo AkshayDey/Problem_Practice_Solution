@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\bin\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\bin\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\bin\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\bin\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\bin\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\refint\CF_Problem_791A_BearAndBigBrother.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\CF_Problem_791A_BearAndBigBrother.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_791A_BearAndBigBrother\obj\Debug\net6.0\ref\CF_Problem_791A_BearAndBigBrother.dll

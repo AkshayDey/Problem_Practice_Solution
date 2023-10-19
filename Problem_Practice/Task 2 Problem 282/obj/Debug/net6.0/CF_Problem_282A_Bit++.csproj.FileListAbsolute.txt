@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\bin\Debug\net6.0\CF_Problem_282A_Bit++.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\bin\Debug\net6.0\CF_Problem_282A_Bit++.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\bin\Debug\net6.0\CF_Problem_282A_Bit++.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\bin\Debug\net6.0\CF_Problem_282A_Bit++.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\bin\Debug\net6.0\CF_Problem_282A_Bit++.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\refint\CF_Problem_282A_Bit++.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\CF_Problem_282A_Bit++.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_282A_Bit++\obj\Debug\net6.0\ref\CF_Problem_282A_Bit++.dll

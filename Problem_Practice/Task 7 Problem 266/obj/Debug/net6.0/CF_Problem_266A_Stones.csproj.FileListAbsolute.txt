@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\bin\Debug\net6.0\CF_Problem_266A_Stones.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\bin\Debug\net6.0\CF_Problem_266A_Stones.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\bin\Debug\net6.0\CF_Problem_266A_Stones.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\bin\Debug\net6.0\CF_Problem_266A_Stones.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\bin\Debug\net6.0\CF_Problem_266A_Stones.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\refint\CF_Problem_266A_Stones.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\CF_Problem_266A_Stones.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_266A_Stones\obj\Debug\net6.0\ref\CF_Problem_266A_Stones.dll

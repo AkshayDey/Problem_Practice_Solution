@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\bin\Debug\net6.0\CF_Problem_133A_HQ9Plus.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\bin\Debug\net6.0\CF_Problem_133A_HQ9Plus.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\bin\Debug\net6.0\CF_Problem_133A_HQ9Plus.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\bin\Debug\net6.0\CF_Problem_133A_HQ9Plus.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\bin\Debug\net6.0\CF_Problem_133A_HQ9Plus.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\refint\CF_Problem_133A_HQ9Plus.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\CF_Problem_133A_HQ9Plus.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_133A_HQ9Plus\obj\Debug\net6.0\ref\CF_Problem_133A_HQ9Plus.dll

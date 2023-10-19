@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\bin\Debug\net6.0\CF_Problem_96_A_Football.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\bin\Debug\net6.0\CF_Problem_96_A_Football.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\bin\Debug\net6.0\CF_Problem_96_A_Football.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\bin\Debug\net6.0\CF_Problem_96_A_Football.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\bin\Debug\net6.0\CF_Problem_96_A_Football.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\refint\CF_Problem_96_A_Football.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\CF_Problem_96_A_Football.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_96_A_Football\obj\Debug\net6.0\ref\CF_Problem_96_A_Football.dll

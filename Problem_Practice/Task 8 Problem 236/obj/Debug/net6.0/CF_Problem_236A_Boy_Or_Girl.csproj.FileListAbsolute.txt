@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\bin\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\bin\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\bin\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\bin\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\bin\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\refint\CF_Problem_236A_Boy_Or_Girl.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\CF_Problem_236A_Boy_Or_Girl.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_236A_Boy_Or_Girl\obj\Debug\net6.0\ref\CF_Problem_236A_Boy_Or_Girl.dll

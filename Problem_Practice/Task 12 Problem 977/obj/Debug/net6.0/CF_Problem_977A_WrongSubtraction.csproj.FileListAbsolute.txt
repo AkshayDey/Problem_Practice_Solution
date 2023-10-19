@@ -1,0 +1,15 @@
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\bin\Debug\net6.0\CF_Problem_977A_WrongSubtraction.exe
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\bin\Debug\net6.0\CF_Problem_977A_WrongSubtraction.deps.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\bin\Debug\net6.0\CF_Problem_977A_WrongSubtraction.runtimeconfig.json
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\bin\Debug\net6.0\CF_Problem_977A_WrongSubtraction.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\bin\Debug\net6.0\CF_Problem_977A_WrongSubtraction.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.csproj.AssemblyReference.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.AssemblyInfoInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.AssemblyInfo.cs
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.csproj.CoreCompileInputs.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\refint\CF_Problem_977A_WrongSubtraction.dll
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.pdb
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\CF_Problem_977A_WrongSubtraction.genruntimeconfig.cache
+F:\AKSHAY\Workshop C#\Problem_Solving\CF_Problem_Solving\CF_Problem_977A_WrongSubtraction\obj\Debug\net6.0\ref\CF_Problem_977A_WrongSubtraction.dll

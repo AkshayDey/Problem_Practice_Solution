@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CF_Problem_118_A_String_Task/1.0.0": {
+        "runtime": {
+          "CF_Problem_118_A_String_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF_Problem_118_A_String_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
